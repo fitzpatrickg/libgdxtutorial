@@ -1,0 +1,2 @@
+com/udemy/mylibgdxtester/desktop/DesktopLauncher.java
+ com.udemy.mylibgdxtester.desktop.DesktopLauncher

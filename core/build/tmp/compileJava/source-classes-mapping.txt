@@ -1,0 +1,10 @@
+helpers/GameInfo.java
+ helpers.GameInfo
+player/Player.java
+ player.Player
+com/udemy/mylibgdxtester/GameMain.java
+ com.udemy.mylibgdxtester.GameMain
+scenes/MainMenu.java
+ scenes.MainMenu
+clouds/Cloud.java
+ clouds.Cloud
